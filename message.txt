@@ -1,1 +1,2 @@
 Message from feature branch
+Combined message from both branches.
